@@ -1,0 +1,17 @@
+{
+  "name": "buguer-eats",
+  "version": "1.0.0",
+  "description": "Pojeto de testes de aceitação do app BuguerEats",
+  "main": "npx cypress open",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitória Miranda",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
