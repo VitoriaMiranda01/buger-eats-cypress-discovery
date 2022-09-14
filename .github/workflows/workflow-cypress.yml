@@ -11,7 +11,7 @@ jobs:
       fail-fast: false
     steps:
       - name: Checkout
-        uses: cypress-io/github-action@v4.1.0
+        uses: cypress-io/github-action@v2
       
       - name: 'UI Tests - Chrome'
         uses: cypress-io/github-action@v2
